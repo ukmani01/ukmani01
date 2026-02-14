@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Manikandan  
-### 💻 MERN Stack Developer | Full Stack Web Developer
+### 💻 MERN Stack Developer 
 
 Passionate MERN Stack Developer skilled in building scalable, responsive, and user-focused web applications. I love transforming ideas into real-world digital solutions using modern technologies.
 
