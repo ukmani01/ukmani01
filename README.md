@@ -25,6 +25,21 @@ Passionate MERN Stack Developer skilled in building scalable, responsive, and us
 ---
 
 ## 🌟 Main Projects
+# Drape – SaaS Ecommerce
+
+Enterprise-grade multi-tenant e-commerce platform built with MERN stack.
+
+🚀 Features: Multi-Tenant, JWT Auth, RBAC, Product Management, Cart, Checkout, Orders, Coupons, Theme Engine, CMS, Cloudinary Upload, Admin Dashboard.
+
+🛠️ Stack: React | Node.js | Express | MongoDB | Tailwind | React Query
+
+📦 32 Modules | 200+ Features | Production Ready
+![MERN](https://img.shields.io/badge/MERN-Stack-blue)
+![React](https://img.shields.io/badge/React-18.2-blue)
+![Node](https://img.shields.io/badge/Node.js-20-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-7.0-green)
+![Tailwind](https://img.shields.io/badge/Tailwind-3.3-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ### 🛒 E-commerce-Projects  
 Modern e-commerce applications with responsive UI and core shopping features like product listing, cart system, and user interaction.
@@ -40,6 +55,7 @@ Web app for creating professional resumes quickly and easily.
 
 ### 🤖 AI-CHATBOX  
 Interactive AI chat application demonstrating frontend-backend integration.
+
 
 ---
 
